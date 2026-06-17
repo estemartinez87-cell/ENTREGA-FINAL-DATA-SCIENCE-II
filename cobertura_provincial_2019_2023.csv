@@ -1,0 +1,9 @@
+jurisdiccion,anio_base,cobertura_base_pct,anio_ultimo,cobertura_ultimo_pct,caida_puntos,indicador,fuente
+Buenos Aires (provincia),2019,77.3,2023,41.9,-35.4,Triple viral 2da dosis (inicio escolar),Chequeado/RPI sobre datos Min. Salud Nacion
+CABA,2019,78.3,2023,52.1,-26.2,Triple viral 2da dosis (inicio escolar),Chequeado/RPI sobre datos Min. Salud Nacion
+Cordoba,2019,86.0,2024,54.0,-32.0,Refuerzo triple viral (5 anios) - no estrictamente comparable: otro anio/indicador,Chequeado/RPI sobre datos Min. Salud de Cordoba
+Chubut,2019,86.3,2023,54.2,-32.1,Triple viral 2da dosis (inicio escolar),Chequeado/RPI sobre datos Min. Salud Nacion
+Argentina (nacional),2019,84.8,2023,54.8,-30.0,Triple viral 2da dosis (inicio escolar),Chequeado - Centro de Datos sobre Min. Salud Nacion
+Santa Fe,2019,83.1,2023,60.6,-22.5,Triple viral 2da dosis (inicio escolar),Chequeado/RPI sobre datos Min. Salud Nacion
+Corrientes,2019,64.0,2023,63.3,-0.7,Triple viral 2da dosis (inicio escolar) - ver nota sobre 2022:80.8 a 2023:63.4,Chequeado/RPI sobre datos Min. Salud Nacion
+Jujuy,2019,107.8,2023,79.3,-28.5,Triple viral 2da dosis (inicio escolar) - dato 2019 >100% por problema de denominador poblacional,Chequeado/RPI sobre datos Min. Salud Nacion
