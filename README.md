@@ -20,7 +20,6 @@ como un problema de **clasificación binaria supervisada**:
   pobreza, desempleo, inflación (transformada logarítmicamente), fecundidad
   adolescente y una variable de tendencia temporal.
 
-El notebook completo está en [`notebooks/proyecto_final_ml.ipynb`](notebooks/proyecto_final_ml.ipynb).
 
 ## 2. Estructura del repositorio
 
